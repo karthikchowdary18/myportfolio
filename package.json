@@ -1,0 +1,23 @@
+{
+  "name": "html-css-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "keywords": [],
+  "author": "Damien Vassart",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com//issues"
+  },
+  "homepage": "https://github.com/",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
