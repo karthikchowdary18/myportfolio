@@ -6,9 +6,16 @@ This project is a personal portfolio website created with HTML and CSS. The webs
 3. Hire Me
 4. Contact
 
+# Deployment
+you can check the interface by clicking on this link 
+(https://645d2561c062d40f9c8fa58b--keen-boba-19805f.netlify.app/)
+
+<br>
+
+# Image
 ![image of portfolio](https://github.com/karthikchowdary18/myportfolio/assets/121443020/cc58d68b-67fb-4b61-9f82-6665ef41009e)
 
-
+<br>
 ## Navigation
 The website includes a navigation bar at the top of each page. The navigation bar includes the following links:
 
